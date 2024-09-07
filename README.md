@@ -1,3 +1,7 @@
+# Hi 👋, I'm Nathaniel P. Inocando
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on : NathanAI | Artificial Intelligence , Library Management System<br>🌱 I’m currently learning : Angular, React , Laravel, Astro<br>💬 Ask me about : C, C++ , C#<br>👨‍💻 All of my projects are available at :<br>⚡ Fun fact : I honestly don't know what to write here, but i do eat shrimp scales lol.<br>📫 How to reach me : humsilkysweet@gmail.com<br>
 
