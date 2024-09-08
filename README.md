@@ -1,7 +1,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 
-<div>
+
 # Hi 👋, I'm Nathaniel P. Inocando
+<div>
   <image>float="right" src="https://user-images.githubusercontent.com/74038190/219925444-83554312-0997-4567-945f-b64096943b07.png"
   </image>
 </div>
