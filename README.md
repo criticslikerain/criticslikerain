@@ -3,8 +3,7 @@
 
 # Hi 👋, I'm Nathaniel P. Inocando
 <div>
-  <image>float="right" src="https://user-images.githubusercontent.com/74038190/219925444-83554312-0997-4567-945f-b64096943b07.png"
-  </image>
+  <image>float="right" src="https://user-images.githubusercontent.com/74038190/219925444-83554312-0997-4567-945f-b64096943b07.png">
 </div>
 
 
