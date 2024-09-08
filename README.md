@@ -18,18 +18,14 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=criticslikerain&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=criticslikerain&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=criticslikerain&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=criticslikerain&theme=monokai&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=criticslikerain&theme=monokai&hide_border=false" alt="GitHub Streaks"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=criticslikerain&theme=monokai&hide_border=false&layout=compact" alt="Top Languages"> </div>
 ### ✍️
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"> </div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=criticslikerain&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/humsilkyweet@gmail.com) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/NathanielInocando) 
-
+ <div align="center"> <a href="https://buymeacoffee.com/humsilkyweet@gmail.com"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a> <a href="https://paypal.me/NathanielInocando"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a> </div>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
