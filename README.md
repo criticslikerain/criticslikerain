@@ -18,7 +18,7 @@
 </div>
 
 # 📊 GitHub Stats:
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=criticslikerain&theme=monokai&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=criticslikerain&theme=monokai&hide_border=false" alt="GitHub Streaks"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=criticslikerain&theme=monokai&hide_border=false&layout=compact" alt="Top Languages"> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=criticslikerain&theme=monokai&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"><br><img src="https://github-readme-streak-stats.herokuapp.com/?user=criticslikerain&theme=monokai&hide_border=false" alt="GitHub Streaks"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=criticslikerain&theme=monokai&hide_border=false&layout=compact" alt="Top Languages"> </div>
 ### ✍️
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"> </div>
 
