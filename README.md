@@ -1,5 +1,5 @@
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&letterSpacing=2px&duration=4000&pause=800&color=F6F6F6&background=11121BEF&center=true&vCenter=true&width=435&lines=To+infinity+and+beyond!+%F0%9F%9A%80;Set+your+Heart+Ablaze!+%F0%9F%94%A5)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&letterSpacing=2px&duration=4000&pause=800&color=F6F6F6&background=11121BEF&center=true&vCenter=true&width=435&lines=To+infinity+and+beyond!+%F0%9F%9A%80;Set+your+Heart+Ablaze!+%F0%9F%94%A5" alt="Typing SVG" /></a>
 </div>
 
 # Hi 👋, I'm Nathaniel P. Inocando
